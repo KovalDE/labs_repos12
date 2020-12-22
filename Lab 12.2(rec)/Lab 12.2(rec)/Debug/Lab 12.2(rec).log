@@ -1,0 +1,4 @@
+﻿  Lab 12.2(rec).cpp
+W:\Labs AP\Lab 12.2(rec)\Lab 12.2(rec)\Lab 12.2(rec).cpp(35,6): warning C4101: a: неиспользованная локальная переменная
+W:\Labs AP\Lab 12.2(rec)\Lab 12.2(rec)\Lab 12.2(rec).cpp(18): warning C4715: Input: значение возвращается не при всех путях выполнения
+  Lab 12.2(rec).vcxproj -> W:\Labs AP\Lab 12.2(rec)\Debug\Lab 12.2(rec).exe
