@@ -1,0 +1,4 @@
+﻿  Lab 12.4(rec).cpp
+W:\Labs AP\Lab 12.4(rec)\Lab 12.4(rec)\Lab 12.4(rec).cpp(55,7): warning C4101: c: неиспользованная локальная переменная
+W:\Labs AP\Lab 12.4(rec)\Lab 12.4(rec)\Lab 12.4(rec).cpp(73): warning C4715: Print: значение возвращается не при всех путях выполнения
+  Lab 12.4(rec).vcxproj -> W:\Labs AP\Lab 12.4(rec)\Debug\Lab 12.4(rec).exe
