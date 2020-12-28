@@ -1,0 +1,4 @@
+﻿  Lab 12.9.cpp
+W:\Labs AP\Lab 12.9\Lab 12.9\Lab 12.9.cpp(27,22): warning C4305: инициализация: усечение из "__int64" в "int"
+W:\Labs AP\Lab 12.9\Lab 12.9\Lab 12.9.cpp(27,12): warning C4309: инициализация: усечение константного значения
+  Lab 12.9.vcxproj -> W:\Labs AP\Lab 12.9\Debug\Lab 12.9.exe
